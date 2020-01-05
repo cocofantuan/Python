@@ -17,7 +17,7 @@
 
 在此项目中，本人主要负责前端的网页设计，包括html框架、css样式以及js动画效果的实现，还有网站的部署。尝试书写推导式但失败了。
 
-[Pythonanywhere入口](ltco.pythonanywhere.com/)  
+[Pythonanywhere入口](http://ltco.pythonanywhere.com/)  
 
 [Github_URL含README文档](https://github.com/cocofantuan/Python)
 
