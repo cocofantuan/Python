@@ -41,9 +41,15 @@
 
 #### Python档：
 
-- 调用了faker模块,用于伪造数据
+- 调用了faker模块,用于伪造数据  
+![faker.png](https://i.loli.net/2020/01/06/xri6pb9DWuZXOYM.png)
 
-- 调用可视化模块pyecharts，导入了Pie,Bar,Map,Tab，实现了地图可视化及非地图可视化（饼图，柱状图及可拖动布局）
+- 调用可视化模块pyecharts，导入了Pie,Bar,Map,Tab，实现了地图可视化及非地图可视化（饼图，柱状图及可拖动布局）  
+![pyecharts.png](https://i.loli.net/2020/01/06/m2VJHqYIPdRkzKo.png)
+- if判断语句：如果用户选择了两个复选框，则返回结果  
+![if.png](https://i.loli.net/2020/01/06/N8JCKmlVts4wDj3.png)
+- for循环遍历：  
+![for.png](https://i.loli.net/2020/01/06/YXR1aEG5FvlqzPd.png)  
 
 #### Web App动作：
 - 此项目使用了复选框，选中两个复选框结果进行对比，点击提交，页面由全国数据的地图跳转到各职业对比的可视化图表及词云。  
